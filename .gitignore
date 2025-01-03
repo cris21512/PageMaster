@@ -1,0 +1,24 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+env/
+venv/
+
+# Archivos de Reflex
+.reflex/
+*.db
+
+# Archivos de sistema
+.DS_Store
+*.log
+*.sqlite3
+
+*.py[cod]
+.web
+*.db
+assets/external/
+__pycache__/
