@@ -5,8 +5,7 @@ __pycache__/
 *.pyd
 
 # Entornos virtuales
-env/
-venv/
+.venv/
 
 # Archivos de Reflex
 .reflex/
