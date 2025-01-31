@@ -32,4 +32,3 @@ app.add_page(
     index,
     title="Chito Y cris | Recetas, Viajes, Cultura y mucho mas!!",
 )
-app._compile
