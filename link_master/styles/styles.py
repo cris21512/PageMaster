@@ -30,6 +30,7 @@ BASE_STYLE = {
         "border_radius": Size.DEFAULT.value,
         "color": TextColor.OSCURO.value,
         "background_color": colors.PRIMARY.value,
+        "border": colors.RED.value,
         "_hover": {
             "background_color": colors.SECONDARY.value
         }
