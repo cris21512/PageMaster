@@ -13,4 +13,5 @@ RUN pip install --upgrade pip
 RUN $uv pip install --no-cache-dir -r requirements.txt
 
 
-CMD ["reflex", "run", "--venv", "prod", "--backend-only"]
+CMD ["reflex", "run", "--env", "prod", "--backend-only"]
+
